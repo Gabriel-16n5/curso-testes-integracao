@@ -1,0 +1,1 @@
+Não devo criar testes de post/get/del/put na mão, pois, se rodar ele mais de uma vez irá causar inconsistência, tem que criar medidas para o teste sempre executar de forma limpa.
