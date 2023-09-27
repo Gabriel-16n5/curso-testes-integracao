@@ -1,0 +1,1 @@
+Em geral, a cobertura de tests de integração deve no mínimo cobrir 90% do que o coverage apresentar, e os aspectos gerais, deixando para os mais expecíficos e regras de negócio para os unitários.
